@@ -1,0 +1,430 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CBX Accounting Vendor and Clients\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-05 14:59+0000\n"
+"PO-Revision-Date: 2019-02-01 12:27-0300\n"
+"Language-Team: Ulrik Motzfeldt-Skovgaard\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: Ulrik Motzfeldt-Skovgaard <ulrik@motzfeldt-skovgaard.com>\n"
+"Language: da_DK\n"
+
+#: cbxwpsimpleaccountingvc.php:328
+msgid "Vendor and Client"
+msgstr "Kreditor og Kunde"
+
+#: cbxwpsimpleaccountingvc.php:348
+msgid "V & C"
+msgstr "L & K"
+
+#: cbxwpsimpleaccountingvc.php:367
+msgid "All"
+msgstr "Total gennem alle tider"
+
+#: cbxwpsimpleaccountingvc.php:474
+msgid "N/A"
+msgstr "N/A"
+
+#: cbxwpsimpleaccountingvc.php:487
+msgid "V&C"
+msgstr "L&K"
+
+#: cbxwpsimpleaccountingvc.php:517 cbxwpsimpleaccountingvc.php:565
+#: cbxwpsimpleaccountingvc.php:1463
+msgid "Vendor and Clients"
+msgstr "Kreditor og Kunder"
+
+#: cbxwpsimpleaccountingvc.php:519 cbxwpsimpleaccountingvc.php:567
+#: cbxwpsimpleaccountingvc.php:739 cbxwpsimpleaccountingvc.php:1465
+msgid "Select Vendor/Client"
+msgstr "Vælg kreditor/klient"
+
+#: cbxwpsimpleaccountingvc.php:522 cbxwpsimpleaccountingvc.php:570
+#: cbxwpsimpleaccountingvc.php:742 cbxwpsimpleaccountingvc.php:1468
+msgid "Clients"
+msgstr "Kunder"
+
+#: cbxwpsimpleaccountingvc.php:535 cbxwpsimpleaccountingvc.php:583
+#: cbxwpsimpleaccountingvc.php:756 cbxwpsimpleaccountingvc.php:1481
+msgid "Vendors"
+msgstr "Kreditorer"
+
+#: cbxwpsimpleaccountingvc.php:686 cbxwpsimpleaccountingvc.php:735
+msgid "Vendor/Client"
+msgstr "Kreditor/klient"
+
+#: cbxwpsimpleaccountingvc.php:800 cbxwpsimpleaccountingvc.php:817
+msgid "This field is required."
+msgstr "Dette felt er påkrævet."
+
+#: cbxwpsimpleaccountingvc.php:801
+msgid "Please fix this field."
+msgstr "Venligst ret dette felt."
+
+#: cbxwpsimpleaccountingvc.php:802
+msgid "Please enter a valid email address."
+msgstr "Indtast venligst en gyldig E-mail."
+
+#: cbxwpsimpleaccountingvc.php:803
+msgid "Please enter a valid URL."
+msgstr "Indtast et gyldigt URL."
+
+#: cbxwpsimpleaccountingvc.php:804
+msgid "Please enter a valid date."
+msgstr "Indtast venligst en gyldig dato."
+
+#: cbxwpsimpleaccountingvc.php:805
+msgid "Please enter a valid date ( ISO )."
+msgstr "Angiv en gyldig dato (ISO)."
+
+#: cbxwpsimpleaccountingvc.php:806
+msgid "Please enter a valid number."
+msgstr "Indtast et gyldigt tal."
+
+#: cbxwpsimpleaccountingvc.php:807
+msgid "Please enter only digits."
+msgstr "﻿Indtast venligst kun cifre."
+
+#: cbxwpsimpleaccountingvc.php:808
+msgid "Please enter the same value again."
+msgstr "Indtast venligst den samme værdi igen."
+
+#: cbxwpsimpleaccountingvc.php:809
+msgid "Please enter no more than {0} characters."
+msgstr "Indtast ikke mere end {0} tegn."
+
+#: cbxwpsimpleaccountingvc.php:810
+msgid "Please enter at least {0} characters."
+msgstr "Indtast mindst {0} tegn."
+
+#: cbxwpsimpleaccountingvc.php:811
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr "Indtast værdi mellem {0} og {1} karakterer."
+
+#: cbxwpsimpleaccountingvc.php:812
+msgid "Please enter a value between {0} and {1}."
+msgstr "Indtast en værdi mellem {0} og {1}."
+
+#: cbxwpsimpleaccountingvc.php:813
+msgid "Please enter a value less than or equal to {0}."
+msgstr "Indtast en værdi mindre end eller lig med {0}."
+
+#: cbxwpsimpleaccountingvc.php:814
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "Indtast en værdi større end eller lig med {0}."
+
+#: cbxwpsimpleaccountingvc.php:815
+msgid "Please check the captcha."
+msgstr "Tjek venligst captcha."
+
+#: cbxwpsimpleaccountingvc.php:851
+msgid "Are you sure to delete this item?"
+msgstr "Er du sikker på at slette dette element?"
+
+#: cbxwpsimpleaccountingvc.php:852
+msgid "Sure"
+msgstr "Er du sikker på at nulstille alle data, denne proces ikke fortrydes?"
+
+#: cbxwpsimpleaccountingvc.php:853
+msgid "Oh! No"
+msgstr "Åh! Nej"
+
+#: cbxwpsimpleaccountingvc.php:901
+msgid "CBX Accounting"
+msgstr "CBX Regnskab"
+
+#: cbxwpsimpleaccountingvc.php:957
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: cbxwpsimpleaccountingvc.php:973
+msgid "Support"
+msgstr "Support"
+
+#. Name of the plugin
+#: cbxwpsimpleaccountingvc.php:985
+msgid "CBX Accounting Vendors & Clients"
+msgstr "CBX Regnskab Kreditor & Kunder"
+
+#: cbxwpsimpleaccountingvc.php:985 partials/addeditvc.php:37
+msgid "Vendors & Clients"
+msgstr "Kreditorer & kunder"
+
+#: cbxwpsimpleaccountingvc.php:1019
+msgid "Number of items per page:"
+msgstr "Antal elementer pr. side:"
+
+#: cbxwpsimpleaccountingvc.php:1105
+msgid "The name field character limit must be between 5 to 200."
+msgstr "Tegngrænsen for navnefeltet skal være mellem 5 og 200."
+
+#: cbxwpsimpleaccountingvc.php:1139
+msgid "Sorry! you don't have enough permission to update account."
+msgstr "Beklager, du har ikke rettigheder til at opdatere en konto."
+
+#: cbxwpsimpleaccountingvc.php:1142
+msgid "Account updated."
+msgstr "Konto opdateret."
+
+#: cbxwpsimpleaccountingvc.php:1148 cbxwpsimpleaccountingvc.php:1184
+#: includes/class-vclisting.php:54 partials/viewvc.php:229
+msgid "Edit"
+msgstr "Rediger"
+
+#: cbxwpsimpleaccountingvc.php:1151
+msgid "Add new"
+msgstr "Tilføj ny"
+
+#: cbxwpsimpleaccountingvc.php:1163
+msgid "You attempted to edit the account that doesn't exist. "
+msgstr "Du prøvede at opdatere en konto som ikke findes. "
+
+#: cbxwpsimpleaccountingvc.php:1182
+msgid "Account created successfully."
+msgstr "Konto blev oprettet."
+
+#: cbxwpsimpleaccountingvc.php:1196
+msgid "Sorry! you don't have enough permission to insert new account."
+msgstr "Beklager, du har ikke rettigheder til at lægge til ny konto."
+
+#: cbxwpsimpleaccountingvc.php:1204
+msgid "Hacking attempt ?"
+msgstr "Forsøg på hacking?"
+
+#: cbxwpsimpleaccountingvc.php:1312
+msgid "Sorry PHPExcel library not loaded properly."
+msgstr "Beklager, at PHPExcel-biblioteket ikke er indlæst korrekt."
+
+#: cbxwpsimpleaccountingvc.php:1312
+#, php-format
+msgid " Back to <a href=\"%s\">Vendor and Client Manager</a>."
+msgstr "Tilbage til <a href=\"%s\">Kreditor og Klient Håndtering</a>."
+
+#: cbxwpsimpleaccountingvc.php:1333 includes/class-vclisting.php:206
+#: partials/addeditvc.php:82 partials/addeditvc.php:202 partials/viewvc.php:76
+#: partials/viewvc.php:181
+msgid "Name"
+msgstr "Navn"
+
+#: cbxwpsimpleaccountingvc.php:1334 includes/class-vclisting.php:207
+#: partials/addeditvc.php:62 partials/viewvc.php:68
+msgid "Type"
+msgstr "Type"
+
+#: cbxwpsimpleaccountingvc.php:1335 includes/class-vclisting.php:208
+#: partials/viewvc.php:102
+msgid "Address"
+msgstr "Adresse"
+
+#: cbxwpsimpleaccountingvc.php:1336 includes/class-vclisting.php:209
+msgid "Contact Information"
+msgstr "Kontaktoplysninger"
+
+#: cbxwpsimpleaccountingvc.php:1337
+msgid "User Name"
+msgstr "Brugernavn"
+
+#: cbxwpsimpleaccountingvc.php:1338 includes/class-vclisting.php:211
+msgid "ID"
+msgstr "ID"
+
+#: cbxwpsimpleaccountingvc.php:1461
+msgid "Choose Vendor/Clients"
+msgstr "Vælg kreditor/klienter"
+
+#: includes/class-vc-helper.php:270
+msgid "Work"
+msgstr "Arbejde"
+
+#: includes/class-vc-helper.php:271
+msgid "Home"
+msgstr "Hjem"
+
+#: includes/class-vc-helper.php:272
+msgid "Other"
+msgstr "Andet"
+
+#: includes/class-vc-helper.php:292 partials/addeditvc.php:74
+msgid "Vendor"
+msgstr "Kreditor"
+
+#: includes/class-vc-helper.php:293 partials/addeditvc.php:68
+msgid "Client"
+msgstr "Kunde"
+
+#: includes/class-vclisting.php:187
+msgid "csv"
+msgstr "csv"
+
+#: includes/class-vclisting.php:189
+msgid "xls"
+msgstr "xls"
+
+#: includes/class-vclisting.php:191
+msgid "xlsx"
+msgstr "xlsx"
+
+#: includes/class-vclisting.php:193
+msgid "Export"
+msgstr "Eksporter"
+
+#: includes/class-vclisting.php:210 partials/addeditvc.php:300
+msgid "User ID"
+msgstr "Bruger ID"
+
+#: includes/class-vclisting.php:234
+msgid "Delete"
+msgstr "Slet"
+
+#: includes/class-vclisting.php:278
+#, php-format
+msgid ""
+"Vendor/Client id: %d  can not be deleted as there are log entry associated "
+"this."
+msgstr ""
+"Kreditor/Klient-id: %d kan ikke slettes, da der er knyttet en logpost til "
+"dette."
+
+#: partials/addeditvc.php:38
+msgid "Back to Listing"
+msgstr "Tilbage til notering"
+
+#: partials/addeditvc.php:49
+msgid "Add/Edit Account"
+msgstr "Tilføj/rediger konto"
+
+#: partials/addeditvc.php:92 partials/viewvc.php:84
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: partials/addeditvc.php:102 partials/viewvc.php:94
+msgid "Organization"
+msgstr "Organisation"
+
+#: partials/addeditvc.php:112
+msgid "Address Information"
+msgstr "Adresse information"
+
+#: partials/addeditvc.php:119 partials/viewvc.php:109
+msgid "Address Line 1"
+msgstr "Adresselinje 1"
+
+#: partials/addeditvc.php:131 partials/viewvc.php:119
+msgid "Address Line 2"
+msgstr "Adresse linje 2"
+
+#: partials/addeditvc.php:143 partials/viewvc.php:129
+msgid "City"
+msgstr "By"
+
+#: partials/addeditvc.php:154 partials/viewvc.php:139
+msgid "State/Province/Region"
+msgstr "Delstat/provins/region"
+
+#: partials/addeditvc.php:165 partials/viewvc.php:149
+msgid "Zip/Postal Code"
+msgstr "Post nr."
+
+#: partials/addeditvc.php:176 partials/viewvc.php:158
+msgid "Country"
+msgstr "Land"
+
+#: partials/addeditvc.php:181
+msgid "Select Country"
+msgstr "Vælg land"
+
+#: partials/addeditvc.php:195 partials/viewvc.php:174
+msgid "Official Contact Information"
+msgstr "Officielle kontaktoplysninger"
+
+#: partials/addeditvc.php:213 partials/viewvc.php:191
+msgid "Designation"
+msgstr "Betegnelse"
+
+#: partials/addeditvc.php:223 partials/viewvc.php:199
+msgid "Phone"
+msgstr "Telefon"
+
+#: partials/addeditvc.php:275 partials/mustache-template-vc.php:34
+msgid "Delete Phone"
+msgstr "Slet telefon"
+
+#: partials/addeditvc.php:286
+msgid "Add new Phone"
+msgstr "Tilføj ny telefon"
+
+#: partials/addeditvc.php:286 partials/listvc.php:14
+msgid "Add New"
+msgstr "Tilføj ny"
+
+#: partials/addeditvc.php:291
+msgid "Connected User"
+msgstr "Tilsluttet bruger"
+
+#: partials/addeditvc.php:319 partials/addeditvc.php:325
+msgid "Add new account"
+msgstr "Tilføj ny konto"
+
+#: partials/addeditvc.php:320 partials/addeditvc.php:323
+msgid "Update account"
+msgstr "Opdater konto"
+
+#: partials/listvc.php:13
+msgid "Vendors & Clients Manager"
+msgstr "Kreditor & Klienter Håndtering"
+
+#: partials/listvc.php:44
+msgid "Search Vendor/Client"
+msgstr "Søg efter Kreditor/Klient"
+
+#: partials/sidebar.php:33
+msgid "Help & Supports"
+msgstr "Hjælp & Support"
+
+#: partials/sidebar.php:44
+msgid "Codeboxr Updates"
+msgstr "Codeboxr Opdateringer"
+
+#: partials/sidebar.php:76
+msgid "Codeboxr on facebook"
+msgstr "Codeboxr på facebook"
+
+#: partials/viewvc.php:24
+msgid "CBX Accounting: Vendors & Clients"
+msgstr "CBX Regnskab: Kreditor & Kunder"
+
+#: partials/viewvc.php:25
+msgid "Back to Lists"
+msgstr "Tilbage til lister"
+
+#: partials/viewvc.php:50
+msgid "Vendor Details"
+msgstr "Oplysninger om kreditor"
+
+#: partials/viewvc.php:56
+msgid "No Vendor or Client Found"
+msgstr "Der blev ikke fundet nogen kreditor eller klient"
+
+#: partials/viewvc.php:226
+msgid "View All Log"
+msgstr "Vis alle log"
+
+#. Description of the plugin
+msgid "Vendors & Clients for CBX Accounting plugin"
+msgstr "Kreditor & Kunde til CBX Regnskab plugin"
+
+#. URI of the plugin
+msgid "http://codeboxr.com/product/cbx-accounting"
+msgstr "http://codeboxr.com/product/cbx-accounting/"
+
+#. Author of the plugin
+msgid "Codeboxr"
+msgstr "Codeboxr"
+
+#. Author URI of the plugin
+msgid "http://codeboxr.com"
+msgstr "http://codeboxr.com"
